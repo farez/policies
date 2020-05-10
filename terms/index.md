@@ -77,3 +77,7 @@ We mention liability throughout these Terms but to put it all in one section:
 In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our utmost to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent. If you choose to use our Services, thank you for betting on us.
 
 If you have a question about any of the Terms of Service, please [email us at hello@atworkathome.co](hello@atworkathome.co).
+
+-----
+
+At Work At Home policies are open source, licensed under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) Adapted from the [Basecamp open-source policies / CC BY 4.0.](https://github.com/basecamp/policies)
